@@ -1,0 +1,5 @@
+,sk_species_id,common_name,scientific_name,family,habitat_type,region
+0,1,fir,abies,pine,"mountainous, coastal, interior","North America, Central America, Europe, Asia, and Northern Africa"
+1,2,pine,pinus,pine,"mountainous, bogs, valleys, grasslands",Northern Hemisphere
+2,3,spruce,picea,pine,"cool, northern, mountainous",Northern Hemisphere
+4,4,trembling aspen,populus tremuloides,willow,"forest, grasslands, southern",North America
